@@ -1,7 +1,5 @@
 ```Markdown
 
-.
-
 🧭 UNIVERSAL PRE-BUILD GUIDE (2026)
 
 Create with AI · Create for Humans · Engineer with Taste
